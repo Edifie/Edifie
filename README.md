@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🌸, I'm Dilan Taskin</h1>
 <h3 align="center">Jr frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Webpage builder in MERN Stack](https://github.com/Edifie/yedy-react)
+- 🔭 My last project was [Webpage builder in MERN Stack](https://github.com/Edifie/yedy-react)
 
 - 🌱 I’m currently learning **React**
 
