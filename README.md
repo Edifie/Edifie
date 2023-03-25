@@ -3,7 +3,7 @@
 
 - 🔭 My last project was [Webpage builder in MERN Stack](https://github.com/Edifie/yedy-react)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **dilantaskin2@gmail.com**
 
